@@ -19,5 +19,5 @@ In this project, we will try and understand some patterns in customer behavior. 
 + Is there any relation between the order in which the products are added to the cart with the re-order of that product?
 + How frequently does the customer place the order on the Instacart app?
 + How many products does a customer generally buy in each order?
-+ 
+
 Once we get a fair idea of the purchase pattern of the customers, we also build 3 models which will help us predict the customer behavior in the future. This will help Instacart while partnering with retailers. It also helps to get the products which need to be stocked up, cross sell products etc.
